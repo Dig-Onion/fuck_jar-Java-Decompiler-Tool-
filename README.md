@@ -8,7 +8,7 @@
 ## 功能说明
 在对java项目逆向分析的时候，Intellij IDEA 无法对class文件进行索引，十分恶心，而JD-gui 每次只能处理一个jar包，相当难受，于是，该项目应运而生：
 
-这是一个基于Python的Windows图形化工具，用于批量反编译JAR文件，使用CFR反编译器生成真正的Java源代码。
+这是一个基于Python的Windows(mac)图形化工具，用于批量反编译JAR文件，使用CFR反编译器生成真正的Java源代码。
 
 
 
@@ -27,6 +27,7 @@
 ### 方法1：一键启动（推荐）
 
 **双击 `run.bat`** 即可启动程序
+- mac双击sh
 - 自动检查Python和Java环境
 - 自动安装缺失的Python依赖
 - 自动下载CFR反编译器（首次运行时）
