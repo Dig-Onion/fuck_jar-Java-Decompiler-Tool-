@@ -81,6 +81,7 @@
 - **缓存机制**：缓存已处理的文件，提高重复处理速度
 - **并行处理嵌套JAR**：同时处理多个嵌套JAR文件
 - **批量IO操作**：批量创建目录和复制文件，提高IO效率
+<img width="1186" height="959" alt="image" src="https://github.com/user-attachments/assets/294f84fd-2b7b-45f9-a1e0-e181fad45641" />
 
 
 ## 注意事项
